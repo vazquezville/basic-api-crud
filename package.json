@@ -1,0 +1,26 @@
+{
+  "name": "basic-api-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel V",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vazquezville/basic-api-rest-crud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vazquezville/basic-api-rest-crud/issues"
+  },
+  "homepage": "https://github.com/vazquezville/basic-api-rest-crud#readme",
+  "description": "Basic expressjs API with CRUD operations. Data saved temporally into a json file"
+}
